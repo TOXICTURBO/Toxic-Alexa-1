@@ -3,9 +3,9 @@
     "description": "Toxic-Alexa - Whatsapp Bot",
     "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
     "keywords": ["whatsapp", "userbot", "Alexa", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/TOXICTURBO/Toxic-Alexa",
-    "website":   "https://github.com/TOXICTURBO/Toxic-Alexa",
-    "success_url": "https://github.com/TOXICTURBO/Toxic-Alexa",
+    "repository": "https://github.com/TOXICTURBO/Toxic-Alexa-1",
+    "website":   "https://github.com/TOXICTURBO/Toxic-Alexa-1",
+    "success_url": "https://github.com/TOXICTURBO/Toxic-Alexa-1",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
